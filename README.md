@@ -1,2 +1,15 @@
 # forcerain.github.io
-<h1>Portfolio</h1>
+
+## hakryuk
+
+
+## gyeongryuk
+
+
+## technical ability
+
+
+## activities
+
+
+Thank you
