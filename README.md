@@ -1,17 +1,17 @@
 # forcerain.github.io
 
-## hakryuk
-> Gumi High School (2010.03 - 2013.02)     
-Soongsil University (2013.03 - 2017.02)     
-Soongsil University Graduate School (2017.03 - 2019.02)     
+## 학력
+> 구미고등학교(Gumi High School) (2010.03 - 2013.02)     
+숭실대학교(Soongsil University) (2013.03 - 2017.02)     
+숭실대학교 대학원(Soongsil University Graduate School) (2017.03 - 2019.02)     
 
-## Thesis    
-> hakwi thesis    
+## 논문    
+> 학위 논문     
 > > Analysis of the Android Application Installation Logs(2019)
 > conference papers    
 > journal papers    
 
-## gyeongryuk
+## 경력 사항
 > TMAXOS (2019.04 - 2019.06)    
 > > VR industry research(task force)     
 
@@ -23,7 +23,7 @@ Soongsil University Graduate School (2017.03 - 2019.02)
 > > Web Push(FCM)     
 > > ManiFest Consolidation System    
 
-## Projects    
+## 프로젝트   
 > University    
 > > 
 
@@ -32,7 +32,7 @@ Soongsil University Graduate School (2017.03 - 2019.02)
 > > Android Log Analysis
  
 
-## technical ability
+## 보유기술
 > C++    
 > > Basic -- Experienced    
 > > STL -- Experienced     
