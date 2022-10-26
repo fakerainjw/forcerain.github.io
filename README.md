@@ -5,6 +5,12 @@
 Soongsil University (2013.03 - 2017.02)     
 Soongsil University Graduate School (2017.03 - 2019.02)     
 
+## Thesis    
+> hakwi thesis    
+> > Analysis of the Android Application Installation Logs(2019)
+> conference papers    
+> journal papers    
+
 ## gyeongryuk
 > TMAXOS (2019.04 - 2019.06)    
 > > VR industry research(task force)     
@@ -16,6 +22,15 @@ Soongsil University Graduate School (2017.03 - 2019.02)
 > KTNET(Korea Trade NETwork) (2021.04 - Current)     
 > > Web Push(FCM)     
 > > ManiFest Consolidation System    
+
+## Projects    
+> University    
+> > 
+
+> Graduate School    
+> > Ransomware    
+> > Android Log Analysis
+ 
 
 ## technical ability
 > C++    
