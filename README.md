@@ -18,11 +18,16 @@ Soongsil University Graduate School (2017.03 - 2019.02)
 > > ManiFest Consolidation System    
 
 ## technical ability
-> C++
-> JAVA
-> Web   
->	> Spring Framework   
->	> Oracle DB
+> C++    
+> > Basic -- Experienced    
+> > STL -- Experienced     
+> JAVA    
+> > Basic -- Experienced    
+> Web     
+> > Spring Framework    
+> > > Real work -- Experienced    
+> > Oracle DB    
+> > > Real work -- Experienced    
 
 ## activities
 > Seminars
