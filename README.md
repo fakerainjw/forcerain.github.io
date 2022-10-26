@@ -21,23 +21,32 @@ Soongsil University Graduate School (2017.03 - 2019.02)
 > C++    
 > > Basic -- Experienced    
 > > STL -- Experienced     
+
 > JAVA    
 > > Basic -- Experienced    
+
 > Web     
 > > Spring Framework    
 > > > Real work -- Experienced    
+
 > > Oracle DB    
 > > > Real work -- Experienced    
 
 ## activities
 > Seminars
->	> NAVER D2   
+> > IT Conferences(e.g. NAVER D2)     
+> > [some pictures]
 > Graduate School - conference   
->	> 2017 SAC   
->	> 2017 RACS   
+> > 2017 SAC   
+> > [picture description]
+> > 2017 RACS   
+> > [picture description]
 > Solo development   
->	> ACM ICPC   
->	> Tripod Crawler   
+> > ACM ICPC   
+> > baekjoon, codeforce
+> > Tripod Crawler   
+> > Lostark lover -> invel website crawling program develeopment
+> > > objective : to know the meta of skill tree from users.
 
 
 Thank you
