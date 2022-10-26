@@ -35,18 +35,18 @@ Soongsil University Graduate School (2017.03 - 2019.02)
 ## activities
 > Seminars
 > > IT Conferences(e.g. NAVER D2)     
-> > [some pictures]
+> > [some pictures]       
 > Graduate School - conference   
 > > 2017 SAC   
-> > [picture description]
+> > [picture description]     
 > > 2017 RACS   
-> > [picture description]
+> > [picture description]      
 > Solo development   
 > > ACM ICPC   
-> > baekjoon, codeforce
-> > Tripod Crawler   
-> > Lostark lover -> invel website crawling program develeopment
-> > > objective : to know the meta of skill tree from users.
+> > baekjoon, codeforce     
+> > Tripod Crawler    
+> > Lostark lover -> invel website crawling program develeopment    
+> > > objective : to know the meta of skill tree from users.     
 
 
 Thank you
