@@ -1,9 +1,9 @@
 # forcerain.github.io
 
 ## hakryuk
-> Gumi Highschool (2010.03 - 2013.02)   
-Soongsil University (2013.03 - 2017.02)   
-Soongsil University Graduate School (2017.03 - 2019.02)   
+> Gumi Highschool (2010.03 - 2013.02)     
+Soongsil University (2013.03 - 2017.02)     
+Soongsil University Graduate School (2017.03 - 2019.02)     
 
 ## gyeongryuk
 > TMAXOS (2019.04 - 2019.06)   
