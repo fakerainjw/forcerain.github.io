@@ -152,25 +152,41 @@ projects:
 
 publications:
     title: 논문
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: 
     papers:
-      - title: 안드로이드 앱 설치 로그 분석 
+      - title: "안드로이드 앱 설치 로그 분석"
         link: "http://www.riss.kr/link?id=T15015965"
         authors: 이진우
         conference: 숭실대학교 대학원, 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Dynamic code whitelist for efficient analysis of Android code"
+        link: "https://dl.acm.org/doi/10.1145/3264746.3264812"
+        authors: Jeongwoo Choi, Yongmin Kim, Jinwoo Lee, Jiman Hong
+        conference: "RACS '18: Proceedings of the 2018 Conference on Research in Adaptive and Convergent Systems, Hawaii, USA. 2018.10"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "How to Make Efficient Decoy Files for Ransomware Detection?"
+        link: "https://dl.acm.org/doi/10.1145/3129676.3129713"
+        authors: Jeonghwan Lee, Jinwoo Lee, Jiman Hong
+        conference: "RACS '17: Proceedings of the International Conference on Research in Adaptive and Convergent Systems, Krakow, Poland. 2017.09"
+
+publications:
+    title: 특허
+    intro: 
+    papers:
+      - title: "애플리케이션 설치 정보 분석 시스템 및 방법"
+        link: "https://patents.google.com/patent/KR102084183B1/ko"
+        authors: 이진우, 김용민, 홍지만
+        conference: 국내특허등록(10-2122968), 2020.06.09
+
+      - title: "악성 프로세스 감염을 차단하는 파일 백업 장치 및 그 방법"
+        link: "https://doi.org/10.8080/1020180066884"
+        authors: 손명준, 이진우, 김용민, 홍지만
+        conference: 국내특허등록(10-2084183), 2020.02.26
+
+      - title: "랜섬웨어 탐지 방법, 이를 수행하기 위한 기록매체 및 램섬웨어 탐지 시스템"
+        link: "https://doi.org/10.8080/1020170182897"
+        authors: 이정환, 이진우, 홍지만
+        conference: 국내특허등록(10-2000369), 2019.07.09
 
 skills:
     title: Skills &amp; Proficiency
