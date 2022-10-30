@@ -110,31 +110,26 @@ experiences:
             - 티맥스 클라우드스페이스 화상통화 앱 Back-End 설계
             - VR/AR 시장 조사
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: 프로젝트
+    intro: 대학원 연구 프로젝트
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
+      - title: 안드로이드 폰 로그 수집 기술 연구 (국가보안기술연구소, 2018)
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+      - title: 안드로이드 시스템 파일 수집 및 로그 연구 (국가보안기술연구소, 2017)
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: 랜섬웨어 대응 기술 개발 (정보통신기술진흥센터, 2017 – 2018)
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+    intro: 개인 프로젝트
+    assignments:
+      - title: 안드로이드 폰 로그 수집 기술 연구 (국가보안기술연구소, 2018)
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
 publications:
     title: 논문
@@ -144,6 +139,11 @@ publications:
         link: "http://www.riss.kr/link?id=T15015965"
         authors: 이진우
         conference: 숭실대학교 대학원, 2019
+
+      - title: "Analysis of Application Installation Logs On Android System"
+        link: "https://dl.acm.org/doi/10.1145/3297280.3297489"
+        authors: Jinwoo Lee, Yena Lee, Ming Jin, Jungyeop Kim, Jiman Hong
+        conference: "SAC '19: Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing, Limassol, Cyprus. 2019.04"
 
       - title: "Dynamic code whitelist for efficient analysis of Android code"
         link: "https://dl.acm.org/doi/10.1145/3264746.3264812"
@@ -158,7 +158,7 @@ publications:
 patents:
     title: 특허
     intro: 
-    papers:
+    patentItems:
       - title: "애플리케이션 설치 정보 분석 시스템 및 방법"
         link: "https://doi.org/10.8080/1020190010498"
         authors: 이진우, 김용민, 홍지만
