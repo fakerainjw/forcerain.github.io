@@ -61,11 +61,11 @@ career-profile:
 education:
     title: 학력
     info:
-      - degree: Master's Degree in Computer Science
+      - degree: Master's Degree in CSE
         university: Soongsil University
         time: 2017 - 2019
 
-      - degree: Bachelor's Degree in Computer Science
+      - degree: Bachelor's Degree in CSE
         university: Soongsil University
         time: 2013 - 2017
 
@@ -97,9 +97,9 @@ experiences:
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
             - Clock Device Driver 고도화 및 개발
-            - Bullet point
+            - Open Source Review Board 활동  
       - role: SW Developer
-        time: 2019.04 - 2019.07
+        time: 2019.04 - 2019.06
         company: Tmax OS
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
