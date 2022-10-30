@@ -125,12 +125,6 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-    intro: 개인 프로젝트
-    assignments:
-      - title: 안드로이드 폰 로그 수집 기술 연구 (국가보안기술연구소, 2018)
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
 publications:
     title: 논문
     intro: 
