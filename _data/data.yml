@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: jwlee9417@gmail.com
-    phone: 08210 2500 2173
+    phone: +8210 2500 2173
     timezone: Korea Standard Timezone(UTC+9)
     citizenship: Republic of Korea
     website:  #do not add http://
@@ -64,25 +64,11 @@ education:
       - degree: Master's Degree in Computer Science
         university: Soongsil University
         time: 2017 - 2019
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
       - degree: Bachelor's Degree in Computer Science
         university: Soongsil University
         time: 2013 - 2017
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
 experiences:
     title: 경력
     info:
@@ -99,8 +85,8 @@ experiences:
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
           architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            - 항공 적하목록 취합 시스템 유지보수 및 고도화
+            - FCM을 사용한 Web Push 알림 기능 개발
       - role: Embedded Software Engineer
         time: 2019.07 - 2021.03
         company: Telechips
@@ -110,7 +96,7 @@ experiences:
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
+            - Clock Device Driver 고도화 및 개발
             - Bullet point
       - role: SW Developer
         time: 2019.04 - 2019.07
@@ -121,8 +107,8 @@ experiences:
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - 티맥스 클라우드스페이스 화상통화 앱 Back-End 설계
+            - VR/AR 시장 조사
 projects:
     title: Projects
     intro: >
@@ -169,7 +155,7 @@ publications:
         authors: Jeonghwan Lee, Jinwoo Lee, Jiman Hong
         conference: "RACS '17: Proceedings of the International Conference on Research in Adaptive and Convergent Systems, Krakow, Poland. 2017.09"
 
-publications:
+patents:
     title: 특허
     intro: 
     papers:
