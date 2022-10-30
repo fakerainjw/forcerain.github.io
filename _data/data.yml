@@ -174,19 +174,19 @@ publications:
     intro: 
     papers:
       - title: "애플리케이션 설치 정보 분석 시스템 및 방법"
-        link: "https://patents.google.com/patent/KR102084183B1/ko"
+        link: "https://doi.org/10.8080/1020190010498"
         authors: 이진우, 김용민, 홍지만
-        conference: 국내특허등록(10-2122968), 2020.06.09
+        details: 국내특허등록(10-2122968), 2020.06.09
 
       - title: "악성 프로세스 감염을 차단하는 파일 백업 장치 및 그 방법"
         link: "https://doi.org/10.8080/1020180066884"
         authors: 손명준, 이진우, 김용민, 홍지만
-        conference: 국내특허등록(10-2084183), 2020.02.26
+        details: 국내특허등록(10-2084183), 2020.02.26
 
       - title: "랜섬웨어 탐지 방법, 이를 수행하기 위한 기록매체 및 램섬웨어 탐지 시스템"
         link: "https://doi.org/10.8080/1020170182897"
         authors: 이정환, 이진우, 홍지만
-        conference: 국내특허등록(10-2000369), 2019.07.09
+        details: 국내특허등록(10-2000369), 2019.07.09
 
 skills:
     title: Skills &amp; Proficiency
