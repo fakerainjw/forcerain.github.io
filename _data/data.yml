@@ -91,13 +91,9 @@ experiences:
         time: 2019.07 - 2021.03
         company: Telechips
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Clock Device Driver 고도화 및 개발
-            - Open Source Review Board 활동  
+           - SoC(System on Chip)의 Boot Sequence중에 적절한 시점의 PLL(Phased Locked Loop) Clock 초기화 진행
+           - U-Boot, LK Bootloader 그리고 Kernel에서의 Clock 초기화 및 Clock Driver 고도화
+           - S/W 개발 중 Open Source 활용에 따른 라이선스 이슈를 검토하는 Open Source Review Board 활동 참여 
       - role: SW Developer
         time: 2019.04 - 2019.06
         company: Tmax OS
