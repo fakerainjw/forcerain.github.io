@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jinwoo Lee
-    tagline: Back-End Developer
+    tagline: Software Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -76,35 +76,21 @@ experiences:
         time: 2021.04 - Present
         company: 한국무역정보통신(KTNET, Korea Trade NETwork)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - 항공 적하목록 취합 시스템 유지보수 및 고도화
+            - 항공사 및 포워더의 사전 적하목록 취합 시스템 유지보수 및 고도화
             - FCM을 사용한 Web Push 알림 기능 개발
       - role: Embedded Software Engineer
         time: 2019.07 - 2021.03
         company: Telechips
         details: |
-           - SoC(System on Chip)의 Boot Sequence중에 적절한 시점의 PLL(Phased Locked Loop) Clock 초기화 진행
-           - U-Boot, LK Bootloader 그리고 Kernel에서의 Clock 초기화 및 Clock Driver 고도화
+           - SoC(System on Chip)의 Boot Sequence에서 PLL(Phased Locked Loop), BUS Clock 초기화 진행
+           - U-Boot, LK Bootloader 그리고 Kernel에서의 System Clock 초기화 및 Clock Driver 고도화
            - S/W 개발 중 Open Source 활용에 따른 라이선스 이슈를 검토하는 Open Source Review Board 활동 참여 
       - role: SW Developer
         time: 2019.04 - 2019.06
         company: Tmax OS
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - 티맥스 클라우드스페이스 화상통화 앱 Back-End 설계
-            - VR/AR 시장 조사
+            - VR/AR 관련 Application 시장 조사
+            - WebRTC 기반의 티맥스 클라우드스페이스 화상통화 앱 Back-End 설계
 projects:
     title: 프로젝트
     intro: 대학원 연구 프로젝트
